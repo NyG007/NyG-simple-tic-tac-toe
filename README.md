@@ -1,6 +1,3 @@
-# NyG-simple-tic-tac-toe
-A simple Javascript XO game!
-
 🧮 NYG simple tic-tac-toe
 
 a simple JavaScript XO game
